@@ -21,9 +21,9 @@ The dataset is represented by the following data files:
 
 File | Download |Description | Size (Jokes/Non-Jokes) | 
 ---- | -------- | -----------| -----------
-`test` | [JSON](data/FUN-dataset/test.json) | Test part (20%). | 61794 (30897 jokes and 30897 non-humorous texts)|
-`train` | [JSON](data/FUN-dataset/train.json)| Train part (80%). | 251416 (125708 jokes and 125708 non-humorous texts)|
-`assessed` | [JSON](data/FUN-dataset/assessed.json) | Manually assessed part. | 1877 (899 jokes and 978 non-humorous texts)|
+`test` | [JSON](https://raw.githubusercontent.com/computational-humor/humor-recognition/master/data/FUN-dataset/test.json) | Test part (20%). | 61794 (30897 jokes and 30897 non-humorous texts)|
+`train` | [JSON](https://raw.githubusercontent.com/computational-humor/humor-recognition/master/data/FUN-dataset/train.json)| Train part (80%). | 251416 (125708 jokes and 125708 non-humorous texts)|
+`assessed` | [JSON](https://raw.githubusercontent.com/computational-humor/humor-recognition/master/data/FUN-dataset/assessed.json) | Manually assessed part. | 1877 (899 jokes and 978 non-humorous texts)|
 
 
 GOLD part
