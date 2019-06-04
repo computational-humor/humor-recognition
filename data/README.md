@@ -62,10 +62,9 @@ Loading in python
 ```python
 from data import load_test, load_gold, load_train, load_fun_dataset
 
-gold_part = load_gold() 
-fun_dataset = load_fun_dataset() # or call load_test() or load_train() for test or train part
+gold_part = load_gold()
+fun_dataset = load_fun_dataset()  # or call load_test() or load_train() for test or train part
 
-print 'Manually assessed data size: {}'.format(len(gold_part))
-print 'Fun dataset size: {}'.format(len(fun_dataset))
-
+print('Manually assessed data size: {}'.format(len(gold_part)))
+print('Fun dataset size: {}'.format(len(fun_dataset)))
 ```
