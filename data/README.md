@@ -10,7 +10,7 @@ License is MIT.
 Jokes and funny dialogues were collected from various open online resources and carefully complemented 
 with unfunny textswith similar lexical properties.
 
-The  dataset comprises  of  more  than  312,877 short texts.  
+The  dataset comprises of 312,877 short texts.  
 
 Manual annotation of about 2,000 items proved the reliability of corpus 
 construction approach. 
