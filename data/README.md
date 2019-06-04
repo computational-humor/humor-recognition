@@ -40,22 +40,22 @@ More than 100  volunteers  took part in the assessment process resulted in 1,877
 Citing
 ------
 
-::
 
     Blinov et al: Large Dataset and Language Model Fun-tuning for Humor Recognition // ACL,
     (2019).
+    
 
+BibTeX
 
-BibTeX::
-
-   @inproceedings{
+    @inproceedings{
       year={2019},
       title={Large Dataset and Language Model Fun-tuning for Humor Recognition},
       author={Blinov, Vladislav and Baranova-Bolotova, Valeriia and Braslavski, Pavel},
       language={English},
       booktitle = {ACL},
+    
+    }
 
-   }
 
 Loading in python 
 ------
